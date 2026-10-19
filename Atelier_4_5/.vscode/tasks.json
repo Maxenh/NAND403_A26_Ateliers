@@ -1,0 +1,15 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Lancer le script dans Blender",
+            "type": "process",
+            "command": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Blender\\blender.exe",
+            "args": [
+                "--python",
+                "${file}"
+            ],
+            "problemMatcher": []
+        }
+    ]
+}

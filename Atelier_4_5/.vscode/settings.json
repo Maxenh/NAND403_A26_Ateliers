@@ -1,0 +1,9 @@
+
+{
+    "python.analysis.extraPaths": [
+        "C:/Users/Shohio/AppData/Local/Python/pythoncore-3.14-64/Lib/site-packages/bpy-stubs"
+    ],
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingModuleSource": "none"
+    }
+}
