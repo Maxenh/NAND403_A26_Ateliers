@@ -1,0 +1,8 @@
+
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.defaultInterpreterPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Blender\\5.2\\python\\bin\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:/Program Files (x86)/Steam/steamapps/common/Blender/5.2/scripts/modules"
+    ]
+}
